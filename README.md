@@ -1,3 +1,7 @@
+> [!WARNING]
+> **This repository has moved to [github.com/iTechSmartINC/polyflash](https://github.com/iTechSmartINC/polyflash)** as part of the iTechSmart Inc rebrand.
+> Please update your links and git remotes. This copy is kept as a redirect and is no longer updated.
+
 # Poly Flashloan Bot
 
 ![test](https://github.com/yuichiroaoki/poly-flashloan-bot/actions/workflows/node.js.yaml/badge.svg)
